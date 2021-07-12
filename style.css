@@ -143,6 +143,10 @@ hr
 {
   font-size:22px;
 }
+.course-author
+{
+  color:#ED6B4F;
+}
 .course-info
 {
   display: flex;
@@ -156,6 +160,7 @@ hr
 .fa-star.empty
 {
   color: rgb(206, 206, 206);
+  
   
 }
 .course-duration

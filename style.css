@@ -98,11 +98,10 @@ hr
   grid-column-gap:24px;
   
 }
-/* .course
+.course
 {
-  border:1px solid rgb(238, 238, 238);
-  border-radius: 10px;
-} */
+  margin-bottom:10px;
+}
 .course .course-banner img{
   width:224px;
   height:120px ;

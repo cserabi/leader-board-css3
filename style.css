@@ -101,6 +101,8 @@ hr
 .course
 {
   margin-bottom:10px;
+  border:2x solid rgb(245, 244, 244);
+  border-radius: 5px;
 }
 .course .course-banner img{
   width:224px;

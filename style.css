@@ -7,8 +7,38 @@
 body{
   font-family: 'Poppins', sans-serif;
   background-color: #F3f1ff;
+  margin:0px;
 }
 
+.top
+{
+  background-color: royalblue;
+  
+}
+nav
+{
+  display: flex;
+  justify-content: space-around;
+  
+}
+.name {
+  display: flex;
+  align-items: center;
+  margin:15px 0;
+
+}
+.name a
+{
+  text-decoration: none;
+  color:white;
+  font-size: 1.1em;
+  margin-left:20px;
+}
+.name img{
+  width:56px;
+  height: 56px;
+  margin-left:10px;
+}
 main
 {
   display: flex;
@@ -98,12 +128,7 @@ hr
   grid-column-gap:24px;
   
 }
-.course
-{
-  margin-bottom:10px;
-  border:2x solid rgb(245, 244, 244);
-  border-radius: 5px;
-}
+
 .course .course-banner img{
   width:224px;
   height:120px ;
